@@ -1,2 +1,2 @@
 # odin-recipes
-Educational project from The Odin Project
+This project is an educational project from The Odin Project. It is intended to showcase my skills in html and my ability to manage a project in GitHub by creating a simple recipe website.
