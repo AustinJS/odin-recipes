@@ -1,0 +1,25 @@
+* {
+    background-color: beige;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+img {
+    height: 320px;
+    width: auto;
+}
+
+h4 {
+    font-size: 16px;
+}
+h3 {
+    padding: 10px;
+}
+
+ul li {
+    padding: 1px;
+}
+
+ol li {
+    padding: 1px;
+}
+
